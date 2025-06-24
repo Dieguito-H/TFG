@@ -1,10 +1,7 @@
 # Teorema de Takens como herramienta de reconstrucción del espacio de fases de sistemas estocásticos fuera del equilibrio
-**Autor**:Diego Hermana García-Agulló
-
-**Tutor**:Lucia Benito Barca
-
+**Autor**: Diego Hermana García-Agulló  
+**Tutor**: Lucia Benito Barca  
 **Universidad**: Francisco de Vitoria  
-
 **Grado**: Ingeniería Matemática con título propio en Quantum Computing
 
 ---
