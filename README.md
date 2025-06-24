@@ -10,8 +10,7 @@
 - [`Sistemas_deterministas.mlx`](Sistemas_deterministas.mlx)
   En este codigo se incluye el desarrollo previo para entender la dinámica de los sistemas amortiguados en disintos escenarios a traves de la ecuación de Langevin.
 
--Simulación de la segunda Ley de Newton.
-
+-Simulación de la segunda Ley de Newton.  
 -Sistema subamortiguado.
 
 -Sistema sobreamortiguado.
