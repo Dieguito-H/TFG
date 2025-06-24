@@ -14,7 +14,7 @@
 -Sistema sobreamortiguado.  
 -Sistema sobreamortiguado+fuerza forzante.
 
-Todos estas simulaciones se plantean para cuatro escenarios distintos.  
+  Todos estas simulaciones se plantean para cuatro escenarios distintos.  
 -F=0.  
 -F=costante.  
 -F=-kx (Ley de Hook).  
